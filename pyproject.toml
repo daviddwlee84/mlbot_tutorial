@@ -1,0 +1,18 @@
+[project]
+name = "mlbot-tutorial"
+version = "0.1.0"
+description = "Tools and notebooks for ML crypto trading tutorial"
+authors = [{ name = "Owner" }]
+readme = "README.md"
+requires-python = ">=3.10"
+dependencies = [
+  "httpx[socks]>=0.27,<0.28",
+  "aiolimiter>=1.1,<2",
+  "beautifulsoup4>=4.12,<5",
+  "markdownify>=0.13,<0.14",
+  "deep-translator>=1.11,<2",
+]
+
+[tool.uv]
+# No special config needed; present so we can `uv sync`.
+

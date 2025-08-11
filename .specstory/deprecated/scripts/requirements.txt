@@ -1,0 +1,8 @@
+trafilatura==1.8.1
+markdownify==0.13.1
+beautifulsoup4==4.12.3
+readability-lxml==0.8.1
+deep-translator==1.11.4
+httpx==0.27.2
+aiolimiter==1.1.0
+

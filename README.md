@@ -29,3 +29,7 @@ docker-compose up -d
 環境建置方法等
 
 [使用機器學習進行加密貨幣交易的教學（Python）](https://qiita.com/richmanbtc/items/05916384bf9d2b1e2f35)
+
+## Resources
+
+- [richmanbtc/crypto_data_fetcher](https://github.com/richmanbtc/crypto_data_fetcher)
