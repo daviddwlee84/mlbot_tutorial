@@ -1,29 +1,31 @@
-mlbotのチュートリアル。
-機械学習で仮想通貨の自動売買をするチュートリアルです。
+# ML Bot Tutorial
 
-## git clone
+mlbot 教學。
+使用機器學習進行加密貨幣自動交易的教學。
+
+## 取得原始碼
 
 ```bash
 git clone https://github.com/richmanbtc/mlbot_tutorial.git
 ```
 
-## Jupyterの起動
+## 啟動 Jupyter
 
 ```bash
 cd mlbot_tutorial
 docker-compose up -d
 ```
 
-## Jupyterを開く
+## 開啟 Jupyter
 
-http://localhost:8888 をブラウザで開く。
+請在瀏覽器開啟 `http://localhost:8888`。
 
-## チュートリアルを開く
+## 開啟教學 Notebook
 
-Jupyter内でwork/tutorial.ipynbを開く
+在 Jupyter 中開啟 `work/tutorial.ipynb`
 
-## チュートリアルの詳しい解説
+## 教學詳細解說
 
-環境構築方法など
+環境建置方法等
 
-[機械学習で仮想通貨取引をするチュートリアル。python](https://qiita.com/richmanbtc/items/05916384bf9d2b1e2f35)
+[使用機器學習進行加密貨幣交易的教學（Python）](https://qiita.com/richmanbtc/items/05916384bf9d2b1e2f35)
